@@ -11,3 +11,4 @@ Pillow
 opencv-python-headless
 numpy<2
 pyyaml
+protobuf<4
